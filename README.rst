@@ -11,9 +11,9 @@ this guide:
 
 2. add this to your conf.py: ::
 
-   sys.path.append(os.path.abspath('_themes'))
-   html_theme_path = ['_themes']
-   html_theme = 'flask'
+	sys.path.append(os.path.abspath('_themes'))
+	html_theme_path = ['_themes']
+	html_theme = 'flask'
 
 The following themes exist:
 
